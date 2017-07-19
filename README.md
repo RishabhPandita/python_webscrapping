@@ -5,5 +5,6 @@ Python libraries used
 1) requests http://docs.python-requests.org/en/master/
 2) pandas http://pandas.pydata.org/
 3) bs4->BeautifulSoup https://pypi.python.org/pypi/beautifulsoup4
+4) jupyter -> for visualization http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/#
 
 Website used for POC: http://pythonhow.com/real-estate/rock-springs-wy/LCWYROCKSPRINGS/
